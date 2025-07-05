@@ -97,6 +97,6 @@ https://geocode.maps.co/search?q=delhi&api_key=YOUR_API_KEY
 This project is open-sourced under the MIT License.
 
 ## 🙋‍♀️ Author
-Suhana Gupta
-GitHub: @Suhana830
+- Suhana Gupta
+- GitHub: @Suhana830
 
